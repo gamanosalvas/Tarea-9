@@ -18,9 +18,10 @@ Tema: Cap 17 y 18 del libro Principios Electricos de Floyd.
 
 Generales:
 
-• Conocer todo lo relacionado con los Transformadores y circuitos acoplados
+• Conocer todo lo relacionado con los filtros pasivos y circuitos RCL.
 
 Especificos:
+
 • Realizar cálculos de voltaje, corriente, resistencia, inductancia en Circuitos con acoplamientos
 
 • Resolver Circuitos polifásicos.
@@ -32,6 +33,9 @@ Especificos:
 Ejercicios  Capitulo 17:
 
 Ejercicios  Capitulo 18:
+
+*27. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz.
+
 
 
 4. Video:
